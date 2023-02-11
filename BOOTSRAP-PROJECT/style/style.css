@@ -1,0 +1,23 @@
+.search{ justify-content: flex-end;}
+.navbar-brand { color: white;}
+.navbar-nav{ color: white;}
+
+nav{ background-color: black;}
+
+#home{ color: white;}
+
+#page{ color: white; }
+#drop{ color: white;}
+h2{ display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+
+.btn-light {background: #787d83; }
+
+
+.my-4 {
+    margin-top: 0rem!important;
+    margin-bottom: 0rem!important;
+}
